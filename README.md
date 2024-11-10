@@ -1,2 +1,2 @@
 # PatriaRealtime
-Patria Realtime Interface
+Patria TTRPG Realtime Interface
